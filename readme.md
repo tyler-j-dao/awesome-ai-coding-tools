@@ -44,6 +44,7 @@ Ideal for developers, teams, researchers, and tech enthusiasts looking to levera
 
 ## 🌟 AI Code Assistants & Editors
 - **[Cursor](https://www.cursor.sh/)**: AI-powered code editor with advanced autocompletion and real-time coding assistance.
+- [OpenMagic](https://github.com/Kalmuraee/OpenMagic) — AI-powered coding toolbar for any web app. Captures element context, previews diffs, and applies approved changes through a reverse proxy.
 - **[Cody (Sourcegraph)](https://about.sourcegraph.com/cody)**: AI assistant for code understanding, navigation, and generation across repositories.
 - **[Windsurf](https://windsurf.com/)**: AI-powered code editor with a powerful and advanced flexible coding agent that goes beyond simple autocompletion and code generation.
 - **[Aider](https://aider.chat)**: Collaborative AI tool for pair-programming and generating code edits via CLI.
