@@ -312,6 +312,7 @@ Ideal for developers, teams, researchers, and tech enthusiasts looking to levera
 - **[Figma AI](https://figma.com/ai)**: Native AI features within Figma for automated design tasks, content generation, and design-to-code workflows.
 - **[TeleportHQ](https://teleporthq.io/)**: AI-powered front-end design platform generating production-ready code from visual designs.
 - **[Freepik](https://www.freepik.com/)**: AI-powered design platform with image generation, background removal, and mockup creation tools for UI designers and developers.
+- **[Roblox GUI Maker](https://robloxguimaker.dev/)**: AI tool for generating Roblox Studio GUI layouts and Lua starter code from text prompts.
 ---
 
 ## 🔎 Snippet & Regex Tools
@@ -440,4 +441,3 @@ Ideal for developers, teams, researchers, and tech enthusiasts looking to levera
 - **[Awesome Developer Marketing](https://github.com/marketinguys/awesome-dev-marketing)**
 - **[Awesome Marketing](https://github.com/marketingtoolslist/awesome-marketing)**: A curated list of awesome marketing tools and resources
 - **[Awesome Productivity](https://github.com/ProductivityDirectory/awesome-productivity-tools)**: Awesome list of productivity tools and products
-
