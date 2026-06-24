@@ -200,6 +200,7 @@ Ideal for developers, teams, researchers, and tech enthusiasts looking to levera
 - **[GitHub Copilot CLI](https://github.com/cli/cli/tree/trunk/pkg/cmd/copilot)**: Official GitHub AI assistant for command-line with context-aware command suggestions.
 - **[ShellGPT](https://github.com/TheR1D/shell_gpt)**: Command-line tool integrating ChatGPT for shell command generation and system administration.
 - **[AICommits](https://github.com/Nutlope/aicommits)**: AI-powered tool for generating meaningful Git commit messages based on code changes.
+- **[agenttrace](https://github.com/luoyuctl/agenttrace)**: Local CLI/TUI for replaying, diffing, and auditing AI coding-agent session history.
 
 ---
 
